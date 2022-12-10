@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android загрузчик ассестов</string>
+
+    <string name="download_Pdf">Скачать пдф</string>
+    <string name="download_Doc">скачать док</string>
+    <string name="download_zip">Скачать зип архив</string>
+    <string name="download_video">Скачать видосик</string>
+    <string name="download_mp3">скачать музыку(мп3)</string>
+    <string name="openFolder">открыть папку</string>
+    <string name="downloadStarted">загрузка началась…</string>
+    <string name="downloadCompleted">загрузка завершена…</string>
+    <string name="downloadFailed">загрузка провалена…</string>
+    <string name="downloadAgain">скачать снова</string>
+
+</resources>
